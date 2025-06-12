@@ -24,5 +24,8 @@ plt.plot(tamanhos, tempos, marker='o')
 plt.title('Tempo Médio de Execução vs Tamanho do Grafo')
 plt.xlabel('Tamanho do Grafo (número de vértices)')
 plt.ylabel('Tempo Médio de Execução (segundos)')
-plt.xticks(tamanhos) 
-plt.show()
+plt.xticks(tamanhos)
+
+
+plt.savefig('grafico.png') 
+plt.close() 

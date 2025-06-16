@@ -1,7 +1,8 @@
-Análise de Algoritmos - UFRR
-Disciplina: Análise de Algoritmos
-Instituição: Universidade Federal de Roraima (UFRR)
-Aluno: Marcos Vinícius Tenacol Coêlho
+# Análise de Algoritmos - UFRR
+
+**Disciplina:** Análise de Algoritmos  
+**Instituição:** Universidade Federal de Roraima (UFRR)  
+**Aluno:** Marcos Vinícius Tenacol Coêlho
 
 # Descrição do Projeto #
 Este projeto apresenta uma análise empírica e teórica do algoritmo DFS (Depth-First Search) aplicado a grafos não direcionados. O objetivo é entender o comportamento assintótico da DFS por meio da função de recorrência, medição do tempo de execução e comparação com algoritmos alternativos.
